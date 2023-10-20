@@ -3,5 +3,5 @@
 
 
 internal class RestaurantWarehouseService():KtorApi(){
-    
+
 }
